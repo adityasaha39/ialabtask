@@ -2,7 +2,7 @@
 
 #### Assignment By:- Aditya Saha , 3rd Year , National Institute Of Technology, Agartala
 
-## How run it in local Maching
+## How run it in local Machine
 
 1. First import code to local machine 
 2. Then start backend
